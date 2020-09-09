@@ -1,0 +1,34 @@
+.App{
+    background-color: black;
+    height:350px;
+    width:550px;
+    margin:50px auto;
+}
+.title{
+    color:white;
+    text-align:center;
+    font-size:34px;
+    padding-top:20px;
+    color:orangered;
+}
+.text{
+    color:white;
+    font-size: 24px;
+    text-align:center;
+    padding-top:30px;
+    
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding-top:40px;
+    
+}
+.fb{
+    padding-right:10px;
+    
+}
+.google{
+    padding-left:10px;
+    padding-top:5px;
+}
